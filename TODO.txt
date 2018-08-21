@@ -1,0 +1,10 @@
+TODO
+
+Make the entire bot
+Add Oauth examples for config
+Implement language processing of mentions
+Add language processing to response generation
+Tweak network variables for good balance of checking
+Improve downtime use
+Create user sqlite database for regular user interaction
+
